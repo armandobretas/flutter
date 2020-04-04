@@ -1,4 +1,6 @@
-# app
+# Todo List em Flutter
+
+> Util: https://github.com/armandobretas/flutter
 
 A new Flutter project.
 
