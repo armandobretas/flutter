@@ -1,6 +1,6 @@
 # Todo List em Flutter
 
-> Util: https://github.com/armandobretas/flutter
+> Util: https://javiercbk.github.io/json_to_dart/
 
 A new Flutter project.
 
